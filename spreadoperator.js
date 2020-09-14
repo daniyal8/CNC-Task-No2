@@ -11,5 +11,5 @@ let myobj2 = {
 
     address:    {address1:'Karachi', address2:'Faislabad'}
 }
-console.log('My First Obj =====> ' , myobj );
-console.log('My Second Obj ====>',  myobj2);
+console.log(`1st obj ${myobj}`);
+console.log(`2nd obj ${myobj2}`);
